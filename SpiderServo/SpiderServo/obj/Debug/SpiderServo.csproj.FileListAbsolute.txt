@@ -1,0 +1,703 @@
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csprojResolveAssemblyReference.cache
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csproj.GenerateResource.Cache
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\MTOUZRI\Documents\Visual Studio 2010\Projects\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\ntran\Desktop\Projet Hexapode\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csprojResolveAssemblyReference.cache
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csproj.GenerateResource.Cache
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\ntran\Documents\GitHub\Nicolas\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csprojResolveAssemblyReference.cache
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csproj.GenerateResource.Cache
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\ntran\Downloads\Spider 2.0\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csprojResolveAssemblyReference.cache
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csproj.GenerateResource.Cache
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\trann\Desktop\Nicolas-master\SpiderServo_0.2\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.exe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.exe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\SpiderServo.exe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\SpiderServo.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\le\SpiderServo.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\be\SpiderServo.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.IO.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\LE\GHI.Premium.System.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.RS485.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.UsbClientSP.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GTM.GHIElectronics.XBee.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.IO.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\BE\GHI.Premium.System.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.dll
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.RS485.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.UsbClientSP.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.pdb
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GTM.GHIElectronics.XBee.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.IO.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.Hardware.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\bin\Debug\GHI.Premium.System.xml
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csprojResolveAssemblyReference.cache
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.resources
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\SpiderServo.csproj.GenerateResource.Cache
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\GadgeteerApp1.Resources.tinyresources
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\TinyResGen.cache
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\be\SpiderServo.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\le\SpiderServo.pdbx
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\SpiderServo.exe
+C:\Users\trann\Desktop\SpiderServo\SpiderServo\obj\Debug\SpiderServo.pdb

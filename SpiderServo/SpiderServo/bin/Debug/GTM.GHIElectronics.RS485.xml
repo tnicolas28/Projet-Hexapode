@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.RS485</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.RS485">
+            <summary>
+            A RS485 module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.RS485.#ctor(System.Int32)">
+            <summary>Constructs a new RS485 instance.</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.RS485.Initialize(System.Int32,Gadgeteer.Interfaces.Serial.SerialParity,Gadgeteer.Interfaces.Serial.SerialStopBits,System.Int32)">
+            <summary>
+            Initializes the serial port to the passed in parameters. If no parameters are passed, the defaults are used.
+            </summary>
+            <param name="baudRate">The baud rate for the serail port. Defaulted to 38400.</param>
+            <param name="parity">Specifies the parity bit for the serial port. Defaulted to none.</param>
+            <param name="stopBits">Specifies the number of stop bits used on the serial port. Defaulted to one.</param>
+            <param name="dataBits">The number of data bits. Defaulted to 8.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.RS485.Port">
+            <summary>
+            The serial port the module provides.
+            </summary>
+        </member>
+    </members>
+</doc>
